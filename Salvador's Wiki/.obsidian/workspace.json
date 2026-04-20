@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80bf05bac6f4ec41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "9495ab74881365b3",
             "type": "leaf",
             "state": {
@@ -54,9 +30,57 @@
               "icon": "lucide-file",
               "title": "Mathematics"
             }
+          },
+          {
+            "id": "4bd31547a9942141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/This Wiki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "This Wiki"
+            }
+          },
+          {
+            "id": "859d0e8053b75447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Analysis"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "6372601807dfb797",
@@ -66,10 +90,24 @@
             "id": "7ea7d10558eec10f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Analysis"
             }
           }
         ]
@@ -145,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mathematics"
+              "title": "Backlinks"
             }
           },
           {
@@ -256,10 +293,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9495ab74881365b3",
+  "active": "859d0e8053b75447",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Untitled.md",
+    "Analysis.md",
+    "Wiki/This Wiki.md",
     "Wiki/Mathematics.md",
+    "Welcome.md",
     "Wiki"
   ]
 }
