@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis.md",
+                "file": "Wiki/Research in mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,41 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Analysis"
+              "title": "Research in mathematics"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "6372601807dfb797",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ea7d10558eec10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Analysis"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -183,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wiki/Research in mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Research in mathematics"
             }
           },
           {
@@ -295,8 +266,12 @@
   },
   "active": "859d0e8053b75447",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Wiki/Research in Mathematics (Legacy).md",
+    "Wiki/Research in mathematics.md",
+    "Research in mathematics.md",
+    "Wiki/Research.md",
     "Analysis.md",
+    "Untitled.md",
     "Wiki/This Wiki.md",
     "Wiki/Mathematics.md",
     "Welcome.md",
