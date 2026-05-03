@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Research in mathematics.md",
+                "file": "Wiki/This Wiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Research in mathematics"
+              "title": "This Wiki"
             }
           }
         ],
@@ -266,14 +266,16 @@
   },
   "active": "859d0e8053b75447",
   "lastOpenFiles": [
-    "Wiki/Research in Mathematics (Legacy).md",
-    "Wiki/Research in mathematics.md",
+    "Wiki/Research/Research in Mathematics (Legacy).md",
+    "Wiki/Research/Research.md",
+    "Wiki/Research",
+    "Wiki/Research/Research in mathematics.md",
+    "Wiki/Math",
     "Research in mathematics.md",
-    "Wiki/Research.md",
-    "Analysis.md",
+    "Wiki/Math/Analysis.md",
     "Untitled.md",
     "Wiki/This Wiki.md",
-    "Wiki/Mathematics.md",
+    "Wiki/Math/Mathematics.md",
     "Welcome.md",
     "Wiki"
   ]
